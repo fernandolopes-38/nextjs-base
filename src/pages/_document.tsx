@@ -6,6 +6,8 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <link rel="shortcut icon" href="favicon.ico" type="image/x-ico"/>
+          <meta name="author" content="" />
+          <meta name="description" content="" />
         </Head>
         <body>
           <Main />
